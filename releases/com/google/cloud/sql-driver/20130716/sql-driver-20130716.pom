@@ -3,7 +3,7 @@
 
   <repositories>
     <repository>
-      <id>roguenet</id>
+      <id>lanceriedel</id>
       <url>https://raw.github.com/lanceriedel/mvnrepo/master/releases</url>
     </repository>
   </repositories>
