@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 24 19:13:25 PDT 2013
+elasticache.java.client-1.0.1.jar>=
+elasticache.java.client-1.0.1.pom>=
